@@ -1,0 +1,73 @@
+faktura VAT
+dsfgh sdfgh
+5 5 5
+5 5 5
+fghj
+dfgh
+dfghj
+sdfgh
+sdfgh
+sdfg
+dfgsdf
+szt 2 3 6 1 0.06 6.06
+end
+6 0.06 6.06 gotowka -
+-
+acsfcsdf
+3 3 4
+faktura korygujaca
+asdfgh sdfgh 4
+4 4 4
+4 4 4
+5 5 5
+sdfgh
+sdfg
+sdfg
+dfg
+dfg
+dfg
+df
+szt 3 6 18 23 4.14 22.14
+end
+sdfgh
+szt 5 7 35 23 8.05 43.05
+end
+6 0.06 6.06 gotowka -
+-
+powod
+erdtfgyhj
+0 1 2000
+faktura VAT
+wqsdfg sdfg
+5 6 7
+43 45 5
+dfghn
+df
+gdf
+fgf
+gbf
+ghndfg
+dfg
+szt 5 6 30 1 0.3 30.3
+end
+30 0.3 30.3 gotowka -
+-
+dfghn
+4 5 7
+faktura VAT
+sdfgh sdfgh
+1 2 3
+5 6 7
+sdfgh
+sdfgh
+sadfg
+asdf
+sadfg
+sdfg
+sdfgh
+szt 6 7.9 47.4 23 10.902 58.302
+end
+47.4 10.902 58.302  
+
+sadefrtg
+4 5 6

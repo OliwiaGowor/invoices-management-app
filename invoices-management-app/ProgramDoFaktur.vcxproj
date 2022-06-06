@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{178c99bd-bd38-4f18-8aa7-fd1b871afdec}</ProjectGuid>
-    <RootNamespace>invoicesmanagementapp</RootNamespace>
+    <ProjectGuid>{75856c3b-c84b-46ea-8c11-a715d9cd5e20}</ProjectGuid>
+    <RootNamespace>ProgramDoFaktur</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -141,11 +141,11 @@
   <ItemGroup>
     <ClCompile Include="CorrectiveInvoice.cpp" />
     <ClCompile Include="Date.cpp" />
-    <ClCompile Include="FileManagement.cpp" />
     <ClCompile Include="Invoice.cpp" />
     <ClCompile Include="ListOfInvoices.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="FileManagement.cpp" />
     <ClCompile Include="PersonalData.cpp" />
     <ClCompile Include="Product.cpp" />
     <ClCompile Include="SearchingInvoice.cpp" />
